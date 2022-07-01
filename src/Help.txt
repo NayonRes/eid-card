@@ -1,0 +1,3 @@
+font-family: 'Elsie Swash Caps', cursive;
+font-family: 'Luxurious Script', cursive;
+font-family: 'MonteCarlo', cursive;
